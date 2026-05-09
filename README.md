@@ -1,24 +1,24 @@
 <div align="center">
   <img src="https://raw.githubusercontent.com/DRMCGT/CillusApp/master/assets/probiotic-blue.png" width="100" alt="Cillus Probiotic"/>
   
-  # ¡Hola! 👋 Soy DRMCGT
+  # Hi! 👋 I'm DRMCGT
   
-  **Solopreneur · Health Tech · IA Aplicada**
+  **Solopreneur · Health Tech · Applied AI**
 </div>
 
 ---
 
-## 🦠 Lo que estoy construyendo
+## 🦠 What I'm Building
 
-### [Cillus — Tu Guía Digestiva Inteligente](https://github.com/DRMCGT/CillusApp)
+### [Cillus — Your Intelligent Digestive Guide](https://github.com/DRMCGT/CillusApp)
 
-Una PWA que usa inteligencia artificial para ayudar a personas con **Síndrome de Intestino Irritable (SII)** a elegir el probiótico correcto.
+A PWA that uses artificial intelligence to help people with **Irritable Bowel Syndrome (IBS)** choose the right probiotic.
 
-| 🔍 Escáner IA | 📝 Bitácora de Síntomas | 🧮 Comparador |
+| 🔍 AI Scanner | 📝 Symptom Diary | 🧮 Comparator |
 |:---:|:---:|:---:|
-| Toma foto de etiquetas | Registra tu día a día | Recomendación personalizada |
+| Snap a photo of any label | Track your daily symptoms | Personalized recommendations |
 
-> *"Deja de comprar probióticos a ciegas"*
+> *"Stop buying probiotics blind — let AI guide you."*
 
 ---
 
@@ -31,24 +31,24 @@ Una PWA que usa inteligencia artificial para ayudar a personas con **Síndrome d
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat&logo=supabase&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white)
-![OpenRouter](https://img.shields.io/badge/IA-OpenRouter-7B61FF?style=flat)
+![OpenRouter](https://img.shields.io/badge/AI-OpenRouter-7B61FF?style=flat)
 
 </div>
 
 ---
 
-## 📍 Donde estoy
+## 📍 Where I'm At
 
-- 🌎 **Baja California, México**
+- 🌎 **Baja California, Mexico**
 - 🌐 [rafalamb.com](http://rafalamb.com)
 - 🐦 [@lamb_rafa](https://x.com/lamb_rafa)
 - 💼 [LinkedIn](https://www.linkedin.com/in/rafa-lamb-a45b23385/)
 
 ---
 
-## 🎯 Misión
+## 🎯 Mission
 
-> Crear herramientas de salud digital accesibles que empoderen a las personas a tomar mejores decisiones sobre su bienestar digestivo. Sin patrocinios, sin intereses ocultos — solo tecnología al servicio de la salud real.
+> Building accessible digital health tools that empower people to make better decisions about their digestive wellness. No sponsorships, no hidden agendas — just technology serving real health.
 
 ---
 
@@ -57,5 +57,5 @@ Una PWA que usa inteligencia artificial para ayudar a personas con **Síndrome d
   <img src="https://raw.githubusercontent.com/DRMCGT/CillusApp/master/assets/landing-scan2.png" width="220" alt="Cillus Comparison"/>
   
   <br><br>
-  <i>"Cillus me ayudó a encontrar el probiótico que realmente funcionaba para mí."</i>
+  <i>"Cillus helped me find the probiotic that actually worked for me."</i>
 </div>

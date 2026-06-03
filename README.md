@@ -53,8 +53,8 @@ A PWA that uses artificial intelligence to help people with **Irritable Bowel Sy
 ---
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/DRMCGT/CillusApp/master/assets/landing-scan1.png" width="220" alt="Cillus Scanner"/>
-  <img src="https://raw.githubusercontent.com/DRMCGT/CillusApp/master/assets/landing-scan2.png" width="220" alt="Cillus Comparison"/>
+  <img src="https://github.com/DRMCGT/DRMCGT/blob/master/logo-figma.png" width="220" alt="Cillus Scanner"/>
+  <img src="https://github.com/DRMCGT/DRMCGT/blob/master/team-probiotics.png" width="220" alt="Cillus Comparison"/>
   
   <br><br>
   <i>"Cillus helped me find the probiotic that actually worked for me."</i>

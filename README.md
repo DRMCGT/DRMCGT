@@ -1,7 +1,7 @@
 <div align="center">
   <img src="https://raw.githubusercontent.com/DRMCGT/CillusApp/master/assets/probiotic-blue.png" width="100" alt="Cillus Probiotic"/>
   
-  # Hi! 👋 I'm DRMCGT
+  # Hi! 👋 I'm Rafa Lamb
   
   **Solopreneur · Health Tech · Applied AI**
 </div>
@@ -39,7 +39,7 @@ A PWA that uses artificial intelligence to help people with **Irritable Bowel Sy
 
 ## 📍 Where I'm At
 
-- 🌎 **Baja California, Mexico**
+- 🌎 **Baja, Mex**
 - 🌐 [rafalamb.com](http://rafalamb.com)
 - 🐦 [@lamb_rafa](https://x.com/lamb_rafa)
 - 💼 [LinkedIn](https://www.linkedin.com/in/rafa-lamb-a45b23385/)

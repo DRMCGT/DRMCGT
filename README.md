@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://raw.githubusercontent.com/DRMCGT/CillusApp/master/assets/probiotic-blue.png" width="100" alt="Cillus Probiotic"/>
+  <img src="https://github.com/DRMCGT/DRMCGT/blob/master/lentes%20(1).png" width="100" alt="Rafa Lamb"/>
   
   # Hi! 👋 I'm Rafa Lamb
   
